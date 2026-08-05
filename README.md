@@ -28,7 +28,7 @@ Built for the official **WhatsApp Business (Cloud) API** — real-time shared in
 
 ### 📥 Real-Time Shared Inbox
 - **Multi-agent collaboration** — one official WhatsApp number, one unified interface for the entire team.
-- *Thread assignment* — route conversations to specific agents, track state, and leave internal notes to avoid overlap.
+- **Thread assignment** — route conversations to specific agents, track state, and leave internal notes to avoid overlap.
 - *Rich media support* — text, images, documents, audio, and interactive buttons.
 
 ### 📊 Visual Kanban Pipelines
