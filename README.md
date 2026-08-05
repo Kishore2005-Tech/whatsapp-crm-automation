@@ -37,7 +37,7 @@ Built for the official **WhatsApp Business (Cloud) API** — real-time shared in
 - **Quick actions** — trigger status updates or template messages straight from the board.
 
 ### 📢 Targeted Broadcast Campaigns
-- *Meta-approved templates* - scheduled or dispatched instantly to custom contact lists.
+- **Meta-approved templates** - scheduled or dispatched instantly to custom contact lists.
 - *Dynamic variable substitution* - for per-client personalization.
 - *Analytics dashboard* — delivery rates, read rates, and quick-reply click-throughs.
 
