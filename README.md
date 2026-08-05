@@ -32,7 +32,7 @@ Built for the official **WhatsApp Business (Cloud) API** — real-time shared in
 - **Rich media support** — text, images, documents, audio, and interactive buttons.
 
 ### 📊 Visual Kanban Pipelines
-- **Drag-and-drop deals** linked directly to live WhatsApp conversations.
+- *Drag-and-drop deals* - linked directly to live WhatsApp conversations.
 - **Value tracking** — define pipeline stages and monitor total pipeline value in real time.
 - **Quick actions** — trigger status updates or template messages straight from the board.
 
