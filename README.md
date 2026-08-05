@@ -34,7 +34,7 @@ Built for the official **WhatsApp Business (Cloud) API** — real-time shared in
 ### 📊 Visual Kanban Pipelines
 - **Drag-and-drop deals** - linked directly to live WhatsApp conversations.
 - **Value tracking** — define pipeline stages and monitor total pipeline value in real time.
-- *Quick actions* — trigger status updates or template messages straight from the board.
+- **Quick actions** — trigger status updates or template messages straight from the board.
 
 ### 📢 Targeted Broadcast Campaigns
 - **Meta-approved templates**, scheduled or dispatched instantly to custom contact lists.
