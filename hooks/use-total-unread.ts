@@ -1,7 +1,7 @@
 "use client";
 
 
-import { createClient } from "@/lib/supabase/client";
+
 import type { Conversation } from "@/types";
 
 /**
