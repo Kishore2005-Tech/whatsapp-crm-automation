@@ -2,7 +2,7 @@
 
 
 
-import type { Conversation } from "@/types";
+
 
 /**
  * Count of conversations with at least one unread inbound message for
