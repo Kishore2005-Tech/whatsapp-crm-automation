@@ -76,7 +76,7 @@ function getOrCreateSheet() {
     sheet.setColumnWidth(1, 160);  // Booked At
     sheet.setColumnWidth(2, 220);  // Appointment ID
     sheet.setColumnWidth(3, 160);  // Clinic Name
-    sheet.setColumnWidth(4, 140);  // Patient Name
+   
     sheet.setColumnWidth(5, 80);   // Age
     sheet.setColumnWidth(6, 130);  // Phone
     sheet.setColumnWidth(7, 200);  // Reason
