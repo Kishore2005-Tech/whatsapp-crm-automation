@@ -82,7 +82,7 @@ const STEP_META: Record<AutomationStepType, StepMeta> = {
   add_tag: { label: "Add Tag", icon: Tag, border: "border-l-primary" },
   remove_tag: { label: "Remove Tag", icon: TagIcon, border: "border-l-primary" },
   assign_conversation: { label: "Assign Conversation", icon: UserCheck, border: "border-l-primary" },
- 
+  update_contact_field: { label: "Update Contact Field", icon: PencilLine, border: "border-l-primary" },
   
   wait: { label: "Wait", icon: Hourglass, border: "border-l-slate-500" },
   condition: { label: "Condition (If/Else)", icon: GitBranch, border: "border-l-amber-500" },
