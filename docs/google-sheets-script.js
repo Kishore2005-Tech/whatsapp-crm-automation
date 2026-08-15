@@ -39,7 +39,7 @@ var HEADERS = [
   'Appointment ID',
   'Clinic Name',
   'Patient Name',
-  'Patient Age',
+  
   'Patient Phone',
   'Reason for Visit',
   'Doctor Name',
