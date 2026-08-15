@@ -40,7 +40,7 @@ var HEADERS = [
   'Clinic Name',
   'Patient Name',
   'Patient Age',
-  
+  'Patient Phone',
   'Reason for Visit',
   'Doctor Name',
   'Specialization',
