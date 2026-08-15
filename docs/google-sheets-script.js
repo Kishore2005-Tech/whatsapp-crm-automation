@@ -147,7 +147,7 @@ function doPost(e) {
     }
 
     return ContentService
-     
+      .createTextOutput(JSON.stringify({ success: true, row: lastRow }))
       .setMimeType(ContentService.MimeType.JSON);
 
   } catch (err) {
