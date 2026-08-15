@@ -96,7 +96,7 @@ const ADDABLE_STEPS: AutomationStepType[] = [
   "add_tag",
   "remove_tag",
   
-  "update_contact_field",
+  
   "create_deal",
   "wait",
   "condition",
