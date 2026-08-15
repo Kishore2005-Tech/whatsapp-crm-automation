@@ -63,7 +63,7 @@ function getOrCreateSheet() {
     sheet.getRange(1, 1, 1, HEADERS.length).setValues([HEADERS]);
 
     // Style header row
-    var headerRange = sheet.getRange(1, 1, 1, HEADERS.length);
+    
     headerRange.setBackground('#1a73e8');
     headerRange.setFontColor('#ffffff');
     headerRange.setFontWeight('bold');
