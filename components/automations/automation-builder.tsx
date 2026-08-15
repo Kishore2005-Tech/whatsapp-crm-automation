@@ -83,7 +83,7 @@ const STEP_META: Record<AutomationStepType, StepMeta> = {
   remove_tag: { label: "Remove Tag", icon: TagIcon, border: "border-l-primary" },
   assign_conversation: { label: "Assign Conversation", icon: UserCheck, border: "border-l-primary" },
  
-  create_deal: { label: "Create Deal", icon: Briefcase, border: "border-l-primary" },
+  
   wait: { label: "Wait", icon: Hourglass, border: "border-l-slate-500" },
   condition: { label: "Condition (If/Else)", icon: GitBranch, border: "border-l-amber-500" },
   send_webhook: { label: "Send Webhook", icon: Webhook, border: "border-l-primary" },
