@@ -19,7 +19,7 @@ CREATE TABLE IF NOT EXISTS automations (
   trigger_type TEXT NOT NULL,
   trigger_config JSONB NOT NULL DEFAULT '{}'::jsonb,
   is_active BOOLEAN NOT NULL DEFAULT FALSE,
-  execution_count INTEGER NOT NULL DEFAULT 0,
+  
   last_executed_at TIMESTAMPTZ,
   created_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
   updated_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
