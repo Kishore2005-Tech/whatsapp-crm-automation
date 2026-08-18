@@ -21,7 +21,7 @@ CREATE TABLE IF NOT EXISTS automations (
   is_active BOOLEAN NOT NULL DEFAULT FALSE,
   execution_count INTEGER NOT NULL DEFAULT 0,
   last_executed_at TIMESTAMPTZ,
-  
+  created_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
   
 );
 
