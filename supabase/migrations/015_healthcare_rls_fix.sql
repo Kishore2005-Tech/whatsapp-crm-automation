@@ -31,7 +31,7 @@ CREATE POLICY "Users can manage own clinic services" ON clinic_services FOR ALL
 DROP POLICY IF EXISTS "Users can manage own clinic faqs" ON clinic_faqs;
 CREATE POLICY "Users can manage own clinic faqs" ON clinic_faqs FOR ALL
   
-  WITH CHECK (EXISTS (SELECT 1 FROM clinics WHERE clinics.id = clinic_faqs.clinic_id AND clinics.user_id = auth.uid()));
+  
 
 -- ai_settings RLS:
 DROP POLICY IF EXISTS "Users can manage own ai settings" ON ai_settings;
