@@ -55,7 +55,7 @@ CREATE TABLE IF NOT EXISTS automation_steps (
   automation_id UUID NOT NULL REFERENCES automations(id) ON DELETE CASCADE,
   parent_step_id UUID REFERENCES automation_steps(id) ON DELETE CASCADE,
   branch TEXT CHECK (branch IN ('yes', 'no')),
-  
+  step_type TEXT NOT NULL,
   
   position INTEGER NOT NULL,
   created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
