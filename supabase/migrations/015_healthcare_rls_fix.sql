@@ -7,7 +7,7 @@
 DROP POLICY IF EXISTS "Users can manage own clinic" ON clinics;
 
   
-  WITH CHECK (auth.uid() = user_id);
+  
 
 -- clinic_timings RLS:
 DROP POLICY IF EXISTS "Users can manage own clinic timings" ON clinic_timings;
