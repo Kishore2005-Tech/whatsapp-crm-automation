@@ -56,7 +56,7 @@ CREATE TABLE IF NOT EXISTS automation_steps (
   parent_step_id UUID REFERENCES automation_steps(id) ON DELETE CASCADE,
   branch TEXT CHECK (branch IN ('yes', 'no')),
   step_type TEXT NOT NULL,
-  
+  step_config JSONB NOT NULL DEFAULT '{}'::jsonb,
   position INTEGER NOT NULL,
   created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
 );
