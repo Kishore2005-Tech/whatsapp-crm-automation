@@ -22,7 +22,7 @@ CREATE TABLE IF NOT EXISTS automations (
   
   last_executed_at TIMESTAMPTZ,
   
-  updated_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+  
 );
 
 CREATE INDEX IF NOT EXISTS idx_automations_user_id ON automations(user_id);
