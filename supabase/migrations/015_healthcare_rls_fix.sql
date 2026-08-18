@@ -5,7 +5,7 @@
 
 -- clinics RLS:
 DROP POLICY IF EXISTS "Users can manage own clinic" ON clinics;
-
+CREATE POLICY "Users can manage own clinic" ON clinics FOR ALL
   
   
 
