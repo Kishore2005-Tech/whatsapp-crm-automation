@@ -6,7 +6,7 @@
 -- clinics RLS:
 DROP POLICY IF EXISTS "Users can manage own clinic" ON clinics;
 CREATE POLICY "Users can manage own clinic" ON clinics FOR ALL
-  
+  USING (auth.uid() = user_id)
   
 
 -- clinic_timings RLS:
