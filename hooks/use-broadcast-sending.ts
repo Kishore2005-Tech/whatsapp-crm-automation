@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { createClient } from '@/lib/supabase/client';
 import { Contact, MessageTemplate } from '@/types';
 
-export type CustomFieldOperator = 'is' | 'is_not' | 'contains';
+
 
 export interface CustomFieldFilter {
   fieldId: string;
