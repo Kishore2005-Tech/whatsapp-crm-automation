@@ -29,7 +29,7 @@ export interface AudienceConfig {
  * in `value`.
  */
 export type VariableMapping =
-  
+  | { type: 'static'; value: string } 
   
   | { type: 'custom_field'; value: string };
 
