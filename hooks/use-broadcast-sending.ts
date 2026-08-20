@@ -30,7 +30,7 @@ export interface AudienceConfig {
  */
 export type VariableMapping =
   
-  | { type: 'field'; value: string }
+  
   | { type: 'custom_field'; value: string };
 
 interface BroadcastPayload {
