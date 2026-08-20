@@ -24,7 +24,7 @@ export function useRealtime({
   onConversationEvent,
   enabled = true,
 }: UseRealtimeOptions) {
-  const channelRef = useRef<RealtimeChannel | null>(null);
+ 
   const [isConnected, setIsConnected] = useState(false);
 
   // Store latest callbacks in refs to avoid re-subscribing when the
