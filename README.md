@@ -20,7 +20,7 @@ Built for the official **WhatsApp Business (Cloud) API** — real-time shared in
 
 ## 📖 Overview
 
-ChatNexGen AI turns the official WhatsApp Business Cloud API into a full CRM. Support and sales teams collaborate from a single shared inbox, track deals through visual pipelines, run compliant broadcast campaigns, and automate conversations with a drag-and-drop flow builder — all backed by an AI assistant capable of autonomously booking healthcare appointments.
+**ChatNexGen AI** turns the official WhatsApp Business Cloud API into a full CRM. Support and sales teams collaborate from a single shared inbox, track deals through visual pipelines, run compliant broadcast campaigns, and automate conversations with a drag-and-drop flow builder — all backed by an AI assistant capable of autonomously booking healthcare appointments.
 
 ---
 
