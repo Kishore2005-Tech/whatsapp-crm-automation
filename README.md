@@ -42,7 +42,7 @@ Built for the official **WhatsApp Business (Cloud) API** — real-time shared in
 - **Analytics dashboard** — delivery rates, read rates, and quick-reply click-throughs.
 
 ### 🔌 No-Code Flow & Automation Builder
-- Visual node builder for automations triggered by keywords, new contacts, or schedules.
+- Visual node builder** for automations triggered by keywords, new contacts, or schedules.
 - **Conditional logic** branching on tags, custom fields, or business hours.
 - **Action nodes** — webhooks, tagging, template follow-ups, and wait steps.
 
