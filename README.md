@@ -4,7 +4,7 @@
 
 ### Self-Hostable WhatsApp CRM & No-Code Automation Engine
 
-Built for the official **WhatsApp Business (Cloud) API — real-time shared inbox, visual Kanban pipelines, automated broadcasts, a no-code flow builder, and an autonomous AI Healthcare Assistant.
+Built for the official **WhatsApp Business (Cloud) API** — real-time shared inbox, visual Kanban pipelines, automated broadcasts, a no-code flow builder, and an autonomous AI Healthcare Assistant.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org/)
